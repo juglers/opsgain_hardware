@@ -1,0 +1,13 @@
+In the GPS tracking business, many manufacturers and designers use GPS modules as below: Ublox, Sirf Star III and MTK GPS.
+Below are the comparisons between the three GPS modules:
+
+Ublox: it works very stable and good performance. it acquires GPS signal very fast whatever the vehicles are moving or still. Also the GPS signal acquisition is best if the vehicles come out of the tunnels. and GPS accuracy is best. The craftsmanship and appearance of Ublox are better. But the cost is higher.
+
+Sirf III: the cost and performance are between Ublox and MTK GPS. Globalsat and RoyalTek GPS modules are based on the Sirf Star III. The techniques may be a little old comparing to the Ublox GPS module nowadays. The accuracy of GPS signal when the vehicles are still would be a little wild sometimes.
+
+MTK GPS: newcomer in GPS tracking business, and fast-growing. it has a little bad performance in GPS signal acquisition and stability. If the vehicle comes out of tunnel, it may take some time to get the GPS signal. But the cost is good.
+
+These three GPS modules are popular on the market especially in Chinese GPS tracking manufacturers. In view of different and specific needs for GPS tracking, people would choose the right modules for their customization. GPS tracking business is more like the niche market. Clients’ needs are not same mostly because most of them are trying to control and manage their own different vehicles or fleets. Some clients need the fuel level monitoring, for example: oil companies; some pay more attention to the route restrictions like bus companies; some want to control the goods in and goods out like logistics; some want to know the status of tire pressure. Therefore, GPS tracking market is not like IPhone which can meet most people's need even the apple fans. Specific needs and customizations are important for the GPS tracking business.
+
+These drawbacks for Sirf III and MTK GPS can be avoided by the good algorithm in firmware or the delicate hardware design. So manufacturers can make most of the three GPS modules meeting client’s need.
+
